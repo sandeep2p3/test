@@ -1,6 +1,2 @@
 Hello 
-Hello 
-d
-d
-d
-d
+Hello 2
